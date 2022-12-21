@@ -1,0 +1,33 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 24px;
+}
+#start , #number_of_objects , #status{
+    background-color: rgb(255, 4, 88);
+    font-size: medium;
+    color: white;
+}
+
+.footer{
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 16px;
+    opacity: 0.5;
+    color: rgb(0, 0, 0);
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 10px 10px 20px white;
+}
