@@ -2,7 +2,7 @@ video = "";
 status = "";
 objects = [];
 function preload(){
-video = createVideo("video1.mp4");
+video = createVideo("video.mp4");
 video.hide();
 }
 
